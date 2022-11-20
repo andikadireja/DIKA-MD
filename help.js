@@ -5,7 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ Dikaa Channel ❳━━━
+return`━━━❲ *Dikaa Channel* ❳━━━
 ┏━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃▤ ID : @${sender.split('@')[0]}
@@ -739,14 +739,14 @@ return`──「 *INFO OWNER* 」──
  *Data Profil*
  • *Nama:* andika
  • *Umur:* 19 tahun
- • *Hoby:* cari cuan
+ • *Hoby:* bergadang
  • *Askot:* karawang
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
+ • *Whatsapp:* 085770575380
  • *Youtube:* Dikaa channel v7
  • *Github:* andikadireja
  `
